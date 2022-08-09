@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.miracles {
+    float: left;
+}
+
+.menu {}
+
+li {
+
+    display: inline-block;
+    color: white;
+    /* padding-top: 5px; */
+    padding-right: 25px;
+    /* margin: 4px; */
+    text-align: center;
+}
+
+#firsthomesession {
+    background-color: darkslategrey;
+    width: 60%;
+    float: left;
+}
+
+#servicesession {
+    width: 40%;
+    float: left;
+}
+
+.firstservicesession {
+    background-color: black;
+}
+
+.introductionpage {
+    width: 60%;
+    float: left;
+    padding-left: 5px;
+}
+
+#snappingbutton {
+    background-color: rgb(155, 114, 11);
+    width: 120px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.snappingbutton:hover {
+    background-color: black;
+
+}
+
+.introductionimage {
+    width: 38%;
+    float: left;
+}
